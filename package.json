@@ -1,0 +1,12 @@
+{
+  "name": "youtube-summarizer",
+  "version": "1.0.0",
+  "description": "Summarize YouTube videos into key points",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
